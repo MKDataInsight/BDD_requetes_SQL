@@ -1,7 +1,7 @@
 # BDD_requetes_SQL
 Création et gestion d'une BDD
 
-Objectifs :
+Objectifs et compétences :
 
     Charger des données dans une base de données
     Créer un schéma d'une base de données
