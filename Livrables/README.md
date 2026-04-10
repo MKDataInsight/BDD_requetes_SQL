@@ -1,3 +1,7 @@
+dictionnaire_données.xlsx :
+
+    Dictionnaire de données élaboré pour documenter les données initiales
+    
 document_technique.pdf :
     
     aperçu du dico de données, du schéma relationnel, code pour générer la table, aperçu de la table
